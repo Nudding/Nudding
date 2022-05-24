@@ -19,10 +19,10 @@
 - 💬 Look around my project [here](http://polaroid.kro.kr)
 - Useful for my project [ColorSearch](https://oldentomato.github.io/ColorSearch/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldentomato&layout=compact)](https://github.com/Oldentomato/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nudding&layout=compact)](https://github.com/Nudding/github-readme-stats)
 
 
-[![Oldentomato's github stats](https://github-readme-stats.vercel.app/api?username=Oldentomato&theme=outrun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nudding's github stats](https://github-readme-stats.vercel.app/api?username=Nudding&theme=outrun&show_icons=true)](https://github.com/Nudding/github-readme-stats)
 
 
 
